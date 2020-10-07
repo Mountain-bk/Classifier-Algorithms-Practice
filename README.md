@@ -1,4 +1,4 @@
-# Naive-Bayes-Practice
+# Classifier Algorithms Practice
 Practice for learning naive bayes algorithm
 ## Installation
 ### Anaconda and Jupyter Notebook(Windows)
