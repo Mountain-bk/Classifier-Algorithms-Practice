@@ -11,7 +11,7 @@ jupyter notebook
 ```
 ## Usage
 ### CSV File
-[Customer Behavior(Kaggle)](https://www.kaggle.com/denisadutca/customer-behaviour)
+[Churn Modelling(Kaggle)](https://www.kaggle.com/shrutimechlearn/churn-modelling)
 ### Jupyter Notebook
 ```jupyternotebook
 import matplotlib.pyplot as plt
