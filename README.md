@@ -10,6 +10,8 @@ Practice for learning naive bayes algorithm
 jupyter notebook
 ```
 ## Usage
+### CSV File
+[Customer Behavior(Kaggle)](https://www.kaggle.com/denisadutca/customer-behaviour)
 ### Jupyter Notebook
 ```jupyternotebook
 import matplotlib.pyplot as plt
